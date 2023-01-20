@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.input{
+margin: 50px 30px;
+display: inline-block;
+}
+.Addbtn{
+  margin: 50px 30px;
+display: inline-block;
+}
+.table{
+  margin: 0px 500px;
+
+}
+.tableRow{
+  text-align: center;
+}
